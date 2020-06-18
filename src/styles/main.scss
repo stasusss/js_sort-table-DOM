@@ -13,8 +13,13 @@ table {
 th {
   cursor: pointer;
   padding: 0 50px;
+  border: 1px solid black;
 }
 
 th:hover {
   background: green;
+}
+
+td {
+  border: 1px solid green;
 }
